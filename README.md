@@ -13,7 +13,7 @@ Use Machine Learning algorithm(s) to study any developments, threats, cause.
 Download the dataset (cowin_vaccine_data_districtwise.csv) and go through the source code to understand the analysis of dataset.
 
 
-# Import all the library required  
+# Import all the required libraries 
 
 ```
 import pandas as pd
